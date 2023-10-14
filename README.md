@@ -7,10 +7,16 @@ Prosta gra Tetris napisana w czystym JavaScript, wykorzystując HTML i CSS do in
 Tetris Screenshot
 
 
+
+
 ![image](https://github.com/SebastianK2000/TetrisGame/assets/127401994/e37e6cb6-916b-4984-b526-b884cb2508f1)
 
 
+
+
 ![image](https://github.com/SebastianK2000/TetrisGame/assets/127401994/5031d6f3-e47e-4de9-a542-cea1c5e484a1)
+
+
 
 
 
@@ -55,10 +61,16 @@ A simple Tetris game written in pure JavaScript, using HTML and CSS for the user
 Tetris Screenshot
 
 
+
+
 ![image](https://github.com/SebastianK2000/TetrisGame/assets/127401994/e37e6cb6-916b-4984-b526-b884cb2508f1)
 
 
+
+
 ![image](https://github.com/SebastianK2000/TetrisGame/assets/127401994/5031d6f3-e47e-4de9-a542-cea1c5e484a1)
+
+
 
 
 
