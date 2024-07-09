@@ -1,5 +1,9 @@
 # Aplikacja Tetris w Vanilla JavaScript
 
+## Link to the game:
+
+https://game-tetris-in-js.netlify.app
+
 PL
 
 Prosta gra Tetris napisana w czystym JavaScript, wykorzystując HTML i CSS do interfejsu użytkownika. Ta aplikacja pozwala na rozgrywanie gry Tetris w przeglądarce internetowej.
